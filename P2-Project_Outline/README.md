@@ -25,7 +25,7 @@ HTML
 CSS
 MySQL
 
-Potential API:
+Potential API options:
 Walmart Reviews: https://www.programmableweb.com/api/walmart-reviews
 Reviewshake: https://www.programmableweb.com/api/reviewshake-review-scraper
 Reviewspotter: https://www.programmableweb.com/api/reviewspotter
