@@ -7,13 +7,12 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-
-(Include at least 3 wireframes here, adding images or files to your the repository as necessary. Format them as a bulleted/unordered list with links to the files.)
+multiple pages on a single image:
+https://github.com/erin-a/liftoff-assignments/blob/master/P3-Project_Planning/WireFrames.jpg
 
 ### Project Tracker
-
-(Include a link to your public Pivotal Tracker project. Be sure you have user stories added for at least your first 2-week sprint.)
+I am unclear on what each sprint will be, could use some help sorting that.
+https://trello.com/b/a22jE8Fn/liftoff
 
 ### Project Repo Link
-
-(Include a link to your project on GitHub)
+https://github.com/erin-a/RegiftRegistry
